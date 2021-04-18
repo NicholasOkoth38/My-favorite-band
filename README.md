@@ -1,6 +1,6 @@
 # My-favorite-band
 # PRETTYMUCH
-#### , 16 Apr 2021
+#### 16 Apr 2021
 #### By *Nicholas Owino*
 ## Description
 This application is a fan site for One Direction band. It contains information about the band, a short bio of the members and a list of my favorite songs and albums. 
