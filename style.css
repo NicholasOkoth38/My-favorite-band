@@ -9,14 +9,15 @@ line-height: 1.6em;
 }
 
 .container{
-    width: 500px;
+    width:80%;
     margin: auto;
     
 
 }
 
 .box-1{
-    background-color: rgba(56, 61, 61, 0.438);
+    background-color: rgba(67, 114, 158, 0.185);
 color: #fff;
-
+border: 5px blue solid;
+border-width: 2px;
 }
