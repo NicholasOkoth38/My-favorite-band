@@ -23,6 +23,9 @@ a:active{
     
 
 }
+.clr{
+    clear: both;
+}
 
 .box-1{
     background-color: rgba(67, 114, 158, 0.185);
@@ -64,4 +67,10 @@ margin-bottom: 20px;
 .categories li{
     padding-bottom: 8px;
     border-bottom: dotted 1px #333;
+}
+.block{
+    float: left;
+    width: 33.33%;
+    
+
 }
