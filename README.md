@@ -13,7 +13,7 @@ HTML and CSS
 ## Support and contact details
 nicholas.okoth@student.moringaschool.com
 ##My gh-pages link
-[https://github.com/NicholasOkoth38/My-favorite-band]
+[https://nicholasokoth38.github.io/My-favorite-band/]
 ### License
 Licensed under the 
 Copyright (c) 2021 *Nicholas Owino
