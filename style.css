@@ -7,7 +7,16 @@ font-weight: normal;
 
 line-height: 1.6em;
 }
-
+a{
+    text-decoration: none;
+    color: rgb(193, 235, 235);
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: green;
+}
 .container{
     width:80%;
     margin: auto;
@@ -23,5 +32,32 @@ border-width: 2px;
 padding: 20px;
 margin-top: 20px;
 margin-bottom: 20px;
+
+}
+.box-1 h1{
+    font-family: 'Segoe UI', Tahoma;
+    font-weight: 800;
+    text transform: uppercase;
+
+}
+.box-2{
+    border: 3px dotted #ccc;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.categories{
+    border: 1px #ccc solid;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.categories h2{
+    text-align: center;
+
+}
+.categories ul{
+    padding: 0;
+    list-style: square;
 
 }
